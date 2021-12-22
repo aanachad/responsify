@@ -1,6 +1,6 @@
 {
-    "name": "devcorpit/responsecode",
-    "description": "ResponseCode Formatter",
+    "name": "aanachad/responsify",
+    "description": "JSON Response Lib",
     "type": "library",
     "require": {
         "php": "^7.0"
@@ -21,8 +21,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Anass Adlane",
-            "email": "i.anassadlane@gmail.com"
+            "name": "ANACHAD Abdessamad",
+            "email": "a.anachad@gmail.com"
         }
     ],
     "minimum-stability": "dev"
